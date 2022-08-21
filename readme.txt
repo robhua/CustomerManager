@@ -1,0 +1,1 @@
+Spring MVC web application using Spring Data JPA for the data access layer.
